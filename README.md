@@ -9,5 +9,6 @@ The DCGAN is employed to generate preliminary 64x64 lunar images from random noi
 ![image](https://github.com/AlgoAlchemist04/DCGAN/blob/esrgan/LR/epoch_61.png)
 
 ### After Enhancement
-![image]()
+#### The image resolution has been increase by 4X 
+![image](https://github.com/AlgoAlchemist04/DCGAN/blob/esrgan/results/epoch_61_rlt.png)
 
