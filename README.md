@@ -6,7 +6,7 @@ The DCGAN is employed to generate preliminary 64x64 lunar images from random noi
 ## ESRGAN Results on Lunar Craters and Boulders
 
 ### Before Enhancement
-![image](https://github.com/AlgoAlchemist04/DCGAN/blob/esrgan/epoch_63.png)
+![image](https://github.com/AlgoAlchemist04/DCGAN/blob/esrgan/LR/epoch_61.png)
 
 ### After Enhancement
 ![image]()
